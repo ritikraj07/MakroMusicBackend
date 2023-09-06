@@ -1,0 +1,25 @@
+{
+  "name": "makromusicbackend",
+  "version": "1.0.0",
+  "description": "MakroMusic backend for database management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritikraj07/MakroMusicBackend.git"
+  },
+  "keywords": [
+    "ritikraj07"
+  ],
+  "author": "ritikraj07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritikraj07/MakroMusicBackend/issues"
+  },
+  "homepage": "https://github.com/ritikraj07/MakroMusicBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
